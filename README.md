@@ -10,6 +10,10 @@ Este repositório contém diversos programas em Java que resolvem problemas mate
 - Métodos para modularização do código
 - Formatação de saída (`String.format`)
 
+## 📌 Confira meu artigo no DEV.to
+
+Para aprender mais sobre Java e ver exemplos de exercícios, confira meu artigo no [DEV.to](https://dev.to/vitorpaiola/1-escreva-um-programa-que-calcule-a-area-de-um-circulo-a-partir-do-raio-utilizando-a-formula-a--4g8)! 🚀
+
 ## 📂 Estrutura do Projeto
 
 📦 Calculos-Matematicos-Java  
