@@ -215,12 +215,17 @@ Calcula a média geométrica de três números fornecidos pelo usuário.
 media = (nota1 * nota2 * nota3) ^ (1/3);
 ```
 
+## 📌 Quer acompanhar mais dicas e novidades sobre Java?
+
+🔔 Fique por dentro de tudo sobre Java! Me siga no [Twitter](https://x.com/v__souz) para receber dicas, novidades e atualizações! 🚀✨
+
+---
+
 ### 📜 **Licença**
 
-Este projeto foi desenvolvido por mim e está livre para uso e modificação sem restrições formais. 
-Fique à vontade para usar e adaptar o código conforme necessário.
+Este projeto foi desenvolvido por mim e está livre para uso e modificação sem restrições formais. Fique à vontade para usar e adaptar o código conforme necessário.
 
 ### 🤝 **Contribuições**
 
-Contribuições são sempre bem-vindas! Se você tem sugestões ou gostaria de adicionar novos cálculos ou funcionalidades, 
-sinta-se à vontade para abrir um Pull Request. Estou ansioso para ver suas melhorias! 😃
+Contribuições são sempre bem-vindas! Se você tem sugestões ou gostaria de adicionar novos cálculos ou funcionalidades, sinta-se à vontade para abrir um Pull Request. Estou ansioso para ver suas melhorias! 😃
+
