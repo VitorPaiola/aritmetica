@@ -1,5 +1,8 @@
 # 📌 Cálculos Matemáticos em Java
 
+![java](https://github.com/user-attachments/assets/4ca4ee78-ecbe-4e64-b0b5-f9caece547ef)
+
+
 Este repositório contém diversos programas em Java que resolvem problemas matemáticos e físicos, como cálculo de áreas, perímetros, distâncias, médias, entre outros.
 
 ## 🚀 Tecnologias Utilizadas
